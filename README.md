@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiki-Toyokawa&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiki-Toyokawa&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiki-Toyokawa&theme=github)
 <!--
 **Aiki-Toyokawa/Aiki-Toyokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
