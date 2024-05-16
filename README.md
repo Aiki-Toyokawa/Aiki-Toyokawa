@@ -3,8 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiki-Toyokawa&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiki-Toyokawa&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiki-Toyokawa&theme=github)
-<!--
-**Aiki-Toyokawa/Aiki-Toyokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3>
   Stacks
@@ -38,7 +37,8 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,webpack,docker,postman)](https://skillicons.dev)
 
 
-
+<!--
+**Aiki-Toyokawa/Aiki-Toyokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
