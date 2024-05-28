@@ -27,6 +27,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,go,py)](https://skillicons.dev)
 
+<h4>
+  Languages
+</h4>
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,rn,)](https://skillicons.dev)
 
 
 <h4>
@@ -34,7 +40,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,latex,sqlite,opencv,qt,replit,vscode,visualstudio,windows)](https://skillicons.dev)
 
 
 <!--
