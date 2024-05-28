@@ -16,7 +16,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,graphql,apollo,sass,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs)](https://skillicons.dev)
 
 
 
@@ -25,7 +25,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,go,postgres,prisma,ruby,rails,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,go,py)](https://skillicons.dev)
 
 
 
@@ -34,7 +34,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,webpack,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,cpp)](https://skillicons.dev)
 
 
 <!--
