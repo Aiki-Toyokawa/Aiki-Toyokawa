@@ -16,7 +16,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 
 
@@ -25,7 +25,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 <h4>
   Languages
