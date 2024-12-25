@@ -31,7 +31,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,bots,latex,sqlite,qt,replit,vscode,visualstudio,windows,figma,md,linux,notion,powershell,processing,raspberrypi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,discord,bots,sqlite,arduino,blender,unity,latex,qt,replit,vscode,visualstudio,windows,figma,md,linux,notion,powershell,processing,raspberrypi,)](https://skillicons.dev)
 
 
 <!--
