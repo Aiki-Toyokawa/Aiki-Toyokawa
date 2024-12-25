@@ -9,30 +9,17 @@
   Stacks
 </h3>
 
-
-<h4>
-  Frontend
-</h4>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
-
-
-
-<h4>
-  Backend
-</h4>
-
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
 <h4>
   Languages
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css,)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
 
 
 <h4>
