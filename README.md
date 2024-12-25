@@ -17,8 +17,12 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css,)](https://skillicons.dev)
 
 
+<h4>
+  Libraries, FrameWorks
+</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,electron)](https://skillicons.dev)
 
 
 
@@ -27,7 +31,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,latex,sqlite,opencv,qt,replit,vscode,visualstudio,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,bot,latex,sqlite,opencv,qt,replit,vscode,visualstudio,windows,figma,md,linux,notion,powershell,processing,raspberrypi,)](https://skillicons.dev)
 
 
 <!--
