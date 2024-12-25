@@ -22,7 +22,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,react,nodejs,express,opencv,)](https://skillicons.dev)
 
 
 
@@ -31,7 +31,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,bots,latex,sqlite,opencv,qt,replit,vscode,visualstudio,windows,figma,md,linux,notion,powershell,processing,raspberrypi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,blender,unity,discord,bots,latex,sqlite,qt,replit,vscode,visualstudio,windows,figma,md,linux,notion,powershell,processing,raspberrypi,)](https://skillicons.dev)
 
 
 <!--
