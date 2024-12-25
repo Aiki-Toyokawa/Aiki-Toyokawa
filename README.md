@@ -14,7 +14,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,js,ts,)](https://skillicons.dev)
 
 
 <h4>
