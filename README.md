@@ -14,7 +14,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,js,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,js,ts,rust)](https://skillicons.dev)
 
 
 <h4>
@@ -22,7 +22,7 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=electron,react,nodejs,express,opencv,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,tauri,svelte,react,nodejs,express,opencv,)](https://skillicons.dev)
 
 
 
