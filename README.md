@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Lookig for Job, Hire me plz
+### I'm lookig for Jobs, Hire me plz
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiki-Toyokawa&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiki-Toyokawa&theme=github)
